@@ -125,7 +125,7 @@ h6,
 }
 
 .hero-header {
-    background: url(img/dish-970446_1920.jpg) top right no-repeat;
+    background: url(/img/dish-970446_1920.jpg) top right no-repeat;
     background-size: cover;
 }
 
@@ -213,7 +213,7 @@ h6,
 }
 
 .bg-img {
-  background: linear-gradient(rgba(0, 0, 0, 0.699), rgb(0, 0, 0)), url(img/factsimg.png) center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.699), rgb(0, 0, 0)), url(/img/factsimg.png) center center no-repeat;
   background-size: cover;
 }
 
@@ -237,7 +237,7 @@ h6,
 
 
 .bg-offer {
-  background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(img/bgoffer.jpg) center center no-repeat;
+  background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(/img/bgoffer.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -359,7 +359,7 @@ h6,
     height: calc(100% - 45px);
     top: 135px;
     left: 0;
-    background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(img/bgoffer.jpg) center center no-repeat;
+    background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(/img/bgoffer.jpg) center center no-repeat;
     background-size: cover;
     z-index: -1;
 }
@@ -418,7 +418,7 @@ h6,
   position: relative;
   height: 100%;
   min-height: 500px;
-  background: linear-gradient(rgba(15, 23, 43, .1), rgba(15, 23, 43, .1)), url(img/cake-video.png);
+  background: linear-gradient(rgba(15, 23, 43, .1), rgba(15, 23, 43, .1)), url(/img/cake-video.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
